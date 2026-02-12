@@ -1,0 +1,13 @@
+voila
+ipywidgets
+mysql-connector-python
+opencv-python-headless
+polars
+pydicom
+pytorch-lightning
+PyWavelets
+wandb
+transformers
+torch
+torchvision
+torchaudio
